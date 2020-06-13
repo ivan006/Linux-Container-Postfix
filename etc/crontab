@@ -1,0 +1,70 @@
+# /etc/crontab: system-wide crontab
+# Unlike any other crontab you don't have to run the `crontab'
+# command to install the new version when you edit this file
+# and files in /etc/cron.d. These files also have username fields,
+# that none of the other crontabs do.
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+# m h dom mon dow user	command
+17 *	* * *	root    cd / && run-parts --report /etc/cron.hourly
+25 6	* * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+47 6	* * 7	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )
+52 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
+#
+
+#Segments Every 2 Minutes
+ */2 * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+
+#Background Import
+ */3 * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:import
+
+#Campaigns (Every 1 Minute)
+ * * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+ * * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+ * * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send
+
+#Process Email Queue Every 5 Minutes
+ */5 * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:emails:send
+# Fetch and Process Monitored Email Every 10 Minutes
+ */10 * * * * root /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+
+
+
+#Segments Every 2 Minutes
+ */2 * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+
+#Background Import
+ */3 * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:import
+
+#Campaigns (Every 1 Minute)
+ * * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+ * * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+ * * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send
+
+#Process Email Queue Every 5 Minutes
+ */5 * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:emails:send
+# Fetch and Process Monitored Email Every 10 Minutes
+ */10 * * * * root /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+
+
+
+#Segments Every 2 Minutes
+ */2 * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+
+#Background Import
+ */3 * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+
+#Campaigns (Every 1 Minute)
+ * * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+ * * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+ * * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send
+
+#Process Email Queue Every 5 Minutes
+ */5 * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:emails:send
+# Fetch and Process Monitored Email Every 10 Minutes
+ */10 * * * * root /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+
+
+@daily certbot renew --quiet && systemctl reload postfix dovecot apache2
