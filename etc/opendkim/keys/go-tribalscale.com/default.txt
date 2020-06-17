@@ -1,3 +1,3 @@
 default._domainkey	IN	TXT	( "v=DKIM1; k=rsa; "
-	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5KOuO8WLZgqt6V2cijWiHKkCA4zJ4DzGVS3ahKc9KQm6KcEzrBV3nXteghWCKzNJHDZyhYx4i3B3kxAYKfuKRXGz4qJ0K0w3AQMaNiIRD+iw96qzpD15mZMHLhAUpAUmXAl+3mxxuvpZ8I2kKk6kdroT4iKIrSCtr7LvzvRKLX8qYKexd+6WeFlYYS0/93R3uHWQxcfOq9+5nh"
-	  "4vuPA6oGPjpSB5cWyMEHzSESlFX6tX/lbXEsF0ekjVjRaOtPxIb0qu+xbx4/O0HlowUf4CDe1V/nzHNfVCbzQ67saqREi63ledY4Iy7WUl9YksCiU0LGLV+tv52ZmlXS0hljwSywIDAQAB" )  ; ----- DKIM key default for go-tribalscale.com
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu90Li82WQL3NyiYqgYuZB4VeD/+/6l79jIH7FBJV7iSSQq9UiTVN+MhGz1UizUx3IXsiT4mj3nYLjpvS9M86r5APtShISz8fsJvGttSOGbJkSCwZyMCyw2NB9UghdwfzmcCAqFW2XULc3xEXjUPfzqVJ1BBl+HUFokq5pZ5ncxJeEob9lon/SULOrTGgO51HCOP8pyuAtgw3qt"
+	  "forHe7WXs9WjCDozzCSGBAc4wc7dSelnl73jZ/sx3qI9uCH2/OwCy3UEeHr+r+jStHmFCk64mVuLv+qlZ7rt0MiBxAboU9t0PdD5yu2mGFfGWF1uyYMT4Frv39pP50Eljgt+a9yQIDAQAB" )  ; ----- DKIM key default for go-tribalscale.com
