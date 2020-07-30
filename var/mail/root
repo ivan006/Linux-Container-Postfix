@@ -1,0 +1,3822 @@
+From root@go-hectronic.us  Fri Jun 12 10:42:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 96C90E0D99; Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084201.96C90E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:42:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id A34A5E0D9A; Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084201.A34A5E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:42:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id EDF4DE0D99; Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084201.EDF4DE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:42:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 20CDFE0D99; Fri, 12 Jun 2020 10:42:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084202.20CDFE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:42:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 384C0E0D99; Fri, 12 Jun 2020 10:42:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084202.384C0E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 5A696E0D9A; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.5A696E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 73A0AE0D99; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.73A0AE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 780A7E0D99; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.780A7E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 7BB21E0D99; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.7BB21E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 80050E0D99; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.80050E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:42:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id A6440E0D99; Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084203.A6440E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:42:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:43:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D4509E0D99; Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084301.D4509E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:43:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D50ECE0D9A; Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084301.D50ECE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:43:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id DA460E0D99; Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084301.DA460E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:43:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 6DCE3E0D99; Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084302.6DCE3E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:43:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 82DFCE0D99; Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084302.82DFCE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:43:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 9A3C6E0D99; Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084302.9A3C6E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:43:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 9DABAE0D9A; Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084302.9DABAE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:43:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E5A32E0D99; Fri, 12 Jun 2020 10:44:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084401.E5A32E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 1F1E0E0D99; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.1F1E0E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 2259CE0D9A; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.2259CE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 23DF8E0D99; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.23DF8E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id CDF15E0D9A; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.CDF15E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D7471E0D9A; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.D7471E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id DD572E0D99; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.DD572E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id DE52EE0D9C; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.DE52EE0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E2B6FE0D99; Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084402.E2B6FE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:44:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 01D6EE0D99; Fri, 12 Jun 2020 10:44:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084403.01D6EE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:44:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:45:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 3EB49E0D99; Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084501.3EB49E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:45:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 98422E0D9A; Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084501.98422E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:45:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id AF943E0D99; Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084501.AF943E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:45:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id C208FE0D9A; Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084501.C208FE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:45:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id C793CE0D99; Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084501.C793CE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:45:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id A0AE8E0D9C; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084502.A0AE8E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-hectronic.us  Fri Jun 12 10:45:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D9256E0D99; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084502.D9256E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:45:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E6CC1E0D9A; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084502.E6CC1E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:45:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 07DBCE0D99; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084503.07DBCE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-hectronic.us  Fri Jun 12 10:45:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 0E7ABE0D9A; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084503.0E7ABE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:45:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 0F023E0D9C; Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084503.0F023E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:45:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 4D649E0D99; Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084601.4D649E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:46:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 4E471E0D9A; Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084601.4E471E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:46:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 5A278E0D99; Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084601.5A278E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:46:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 6C7F2E0D99; Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084601.6C7F2E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 4C3FDE0D9C; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.4C3FDE0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 6485AE0D9A; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.6485AE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 6C7BDE0D99; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.6C7BDE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 74250E0D9A; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.74250E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 770D9E0D9C; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.770D9E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:46:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 7F353E0D99; Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084602.7F353E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:46:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:47:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id BA6B1E0D99; Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084701.BA6B1E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:47:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id C6AD8E0D99; Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084701.C6AD8E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:47:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 33CB3E0D9C; Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084702.33CB3E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:47:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 50424E0D9C; Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084702.50424E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:47:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 6F22DE0D99; Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084702.6F22DE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:47:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 7A8F0E0D99; Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084702.7A8F0E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:47:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id BADF3E0D9A; Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084701.BADF3E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:47:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id B342EE0D99; Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084801.B342EE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id CEE80E0D9A; Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084801.CEE80E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E952CE0D9A; Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084801.E952CE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id EC98CE0D9C; Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084801.EC98CE0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id CDFE6E0D99; Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084801.CDFE6E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 323FBE0D9D; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.323FBE0D9D@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 50CDCE0D99; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.50CDCE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 58409E0D99; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.58409E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 5BCF8E0D9A; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.5BCF8E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 5FE0FE0D99; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.5FE0FE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:48:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 625F2E0D9A; Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084803.625F2E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:48:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:49:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 9094CE0D99; Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084901.9094CE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:49:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id AA906E0D9A; Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084901.AA906E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:49:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 3591FE0D9A; Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084902.3591FE0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:49:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 39C45E0D9A; Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084902.39C45E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:49:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 4C149E0D9A; Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084902.4C149E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:49:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 71CE1E0D9A; Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084902.71CE1E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:49:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id A6944E0D99; Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612084901.A6944E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:49:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:01 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D53D1E0D99; Fri, 12 Jun 2020 10:50:01 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085001.D53D1E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 1A7F4E0D99; Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085002.1A7F4E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 23F13E0D9A; Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085002.23F13E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 65471E0D9C; Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085002.65471E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:02 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 5ABD3E0D9A; Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085002.5ABD3E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 34467E0D99; Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085002.34467E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id 9211EE0D99; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.9211EE0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+No mailboxes are configured.
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id C6DEDE0D9D; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.C6DEDE0D9D@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id CCCCAE0D9E; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.CCCCAE0D9E@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D088EE0D9D; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.D088EE0D9D@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id DFCE8E0D9C; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.DFCE8E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id D9A26E0D9A; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:email:fetch
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.D9A26E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+No mailboxes are configured.
+
+From root@go-hectronic.us  Fri Jun 12 10:50:03 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E2737E0D9D; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.E2737E0D9D@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:04 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id E2E65E0D9C; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.E2E65E0D9C@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:04 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id F3AD4E0D9A; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.F3AD4E0D9A@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-hectronic.us  Fri Jun 12 10:50:04 2020
+Return-Path: <root@go-hectronic.us>
+X-Original-To: root
+Delivered-To: root@go-hectronic.us
+Received: by vmi392019.contaboserver.net (Postfix, from userid 0)
+	id B9694E0D99; Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+From: root@go-hectronic.us (Cron Daemon)
+To: root@go-hectronic.us
+Subject: Cron <root@vmi392019> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200612085003.B9694E0D99@vmi392019.contaboserver.net>
+Date: Fri, 12 Jun 2020 10:50:03 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 83064E0D99; Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115201.83064E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 889FAE0D9B; Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115201.889FAE0D9B@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id BACABE0D9E; Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115201.BACABE0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 488CBE0D99; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.488CBE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 75A8CE0D99; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.75A8CE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 800A6E0D9B; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.800A6E0D9B@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 84995E0D9B; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.84995E0D9B@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 8C9DCE0D99; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.8C9DCE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 94830E0D99; Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115202.94830E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:52:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 89AE8E0D9C; Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115201.89AE8E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:52:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id C5BB2E0D99; Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115301.C5BB2E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id D3DDAE0D99; Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115301.D3DDAE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id DA182E0D99; Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115301.DA182E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id A4C47E0D99; Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115302.A4C47E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id A764AE0D99; Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115302.A764AE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id B715CE0D99; Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115302.B715CE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:53:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id CA404E0D99; Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115302.CA404E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:53:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 0F8C2E0D99; Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115402.0F8C2E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 362B3E0D9C; Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115402.362B3E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 409E6E0D9C; Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115402.409E6E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 475FBE0D9C; Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115402.475FBE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 34CB0E0D99; Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115402.34CB0E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 3220AE0D9E; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.3220AE0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 457D5E0D99; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.457D5E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 5986FE0D99; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.5986FE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 643C1E0D99; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.643C1E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 64F4DE0D9C; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.64F4DE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:54:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id A7010E0D99; Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115403.A7010E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:54:03 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 287CEE0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.287CEE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 31B34E0D9E; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.31B34E0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 441EDE0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.441EDE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 525D9E0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.525D9E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 66CEDE0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.66CEDE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 77AE8E0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.77AE8E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 78D18E0D9E; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.78D18E0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 80EE8E0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.80EE8E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 8F749E0D9C; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.8F749E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:55:04 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 27DB6E0D99; Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:emails:send
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115503.27DB6E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:55:03 +0200 (CEST)
+
+Mautic is not set to queue email.
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id BE1B5E0D99; Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115601.BE1B5E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id D3C64E0D99; Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115601.D3C64E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id D5BB6E0D9E; Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115601.D5BB6E0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 8BC95E0D9E; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.8BC95E0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id ABB85E0D99; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.ABB85E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id ADDC0E0D99; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.ADDC0E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id B718EE0D99; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.B718EE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id C53A4E0D9C; Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115601.C53A4E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id C2687E0D99; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.C2687E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:56:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id C3B06E0D9C; Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115602.C3B06E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:56:02 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:01 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id EA965E0D99; Sat, 13 Jun 2020 13:57:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115701.EA965E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 014AAE0D99; Sat, 13 Jun 2020 13:57:01 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.014AAE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:01 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 072A6E0D99; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:import
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.072A6E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 08303E0D9C; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.08303E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id B7FE4E0D99; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.B7FE4E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id CDD55E0D99; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.CDD55E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id DE41BE0D99; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.DE41BE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:57:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id E1197E0D99; Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115702.E1197E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:57:02 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 19CADE0D99; Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115802.19CADE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 1AA54E0D9C; Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115802.1AA54E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 245EEE0D99; Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115802.245EEE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:02 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 33BC0E0D99; Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115802.33BC0E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+
+Could not open input file: /var/www/go-tribalscale.outreach-hangar49.com/public_html/app/console
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 0517BE0D99; Sat, 13 Jun 2020 13:58:02 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115803.0517BE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:03 +0200 (CEST)
+
+Rebuilding contacts for campaign 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:03 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 09B2DE0D9C; Sat, 13 Jun 2020 13:58:03 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115803.09B2DE0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:03 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:05 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 6D167E0D99; Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115805.6D167E0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 2
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+Rebuilding contacts for segment 3
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:05 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 71E47E0D9C; Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/mautic.outreach-hangar49.com/public_html/app/console mautic:messages:send 
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115805.71E47E0D9C@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+
+Processing message queue
+Messages sent: 0
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:05 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 75D59E0D9E; Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:campaigns:trigger
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115805.75D59E0D9E@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+
+Triggering events for campaign 1
+Triggering events for newly added contacts
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering scheduled events
+0 total events(s) to be processed in batches of 100 contacts
+
+0 total events were executed
+0 total events were scheduled
+
+Triggering events for inactive contacts
+
+0 total events were executed
+0 total events were scheduled
+
+
+From root@go-tribalscale.com  Sat Jun 13 13:58:06 2020
+Return-Path: <root@go-tribalscale.com>
+X-Original-To: root
+Delivered-To: root@go-tribalscale.com
+Received: by go-tribalscale.com (Postfix, from userid 0)
+	id 7667FE0D99; Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+From: root@go-tribalscale.com (Cron Daemon)
+To: root@go-tribalscale.com
+Subject: Cron <root@go-tribalscale> /usr/bin/php /var/www/gohangar.outreach-hangar49.com/public_html/app/console mautic:segments:update
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <LOGNAME=root>
+Message-Id: <20200613115805.7667FE0D99@go-tribalscale.com>
+Date: Sat, 13 Jun 2020 13:58:05 +0200 (CEST)
+
+Rebuilding contacts for segment 1
+0 total contact(s) to be added in batches of 300
+0 total contact(s) to be removed in batches of 300
+0 contact(s) affected
+
+
